@@ -1,4 +1,4 @@
-# Polls app:
+# Polls App
 
 A simple polls voting website made with Python using Django.
 
